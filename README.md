@@ -1,8 +1,5 @@
-<img width="1906" height="750" alt="image" src="https://github.com/user-attachments/assets/462c0fc8-cd17-4dcf-81cc-65af88db89e0" /># 🧪 BDD-API-Automation Framework
-
 This is a lightweight and flexible **API automation framework** built using **Java**, **BDD (Cucumber)**, and **TestNG**. It supports comprehensive HTTP operations and validations for both **JSON** and **XML** API responses.
 
----
 
 ## 🚀 Features
 
@@ -14,8 +11,6 @@ This is a lightweight and flexible **API automation framework** built using **Ja
 - ✅ Lightweight and easily extendable
 - ✅ Ideal for RESTful service testing
 - ✅ Structured logs and outputs for better traceability
-
----
 
 ## 📁 Project Structure
 ```bash
