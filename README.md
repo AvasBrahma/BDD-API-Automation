@@ -18,14 +18,19 @@ This is a lightweight and flexible **API automation framework** built using **Ja
 ---
 
 ## 📁 Project Structure
+project-root/
+📜 src/
+│   ├── test/java/stepdefinitions/   – Cucumber step definitions
+│   ├── test/java/utils/            – Utility classes for API, JSON, XML, etc.
+│   └── test/resources/             – Cucumber feature files and config
+│
+📊 test-output/                     – TestNG HTML reports
+📦 target/                          – Compiled build output
+⚙️ config.properties                – Environment/configuration settings
+🧪 testng.xml                       – TestNG suite configuration
+📦 pom.xml                          – Maven project dependencies and build setup
+📝 README.md                        – Project documentation
 
-├── src/ # Source code for step definitions, utilities, etc.
-├── target/ # Build output
-├── test-output/ # Test execution reports
-├── config.properties # Environment/config settings
-├── pom.xml # Maven dependencies and build settings
-├── testng.xml # TestNG suite configuration
-└── README.md # Project documentation
 
 
 ---
